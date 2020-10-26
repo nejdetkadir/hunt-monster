@@ -42,10 +42,10 @@
             <button id="give-up" @click="giveUp">GIVE UP!</button>
         </div>
     </section>
-    <section class="row log" v-if="gameIsStarted">
+    <section class="row log" v-if="logs.length > 0">
         <div class="small-12 columns">
             <ul>
-                <li></li>
+                <li class="player-turn" v-for="log in logs" :class="log.turn">{{ log.text }}</li>
             </ul>
         </div>
     </section>
