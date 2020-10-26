@@ -1,9 +1,14 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/eda841d8f3ab43408307ae651e6e9c70)](https://www.codacy.com/gh/nejdetkadir/hunt-monster/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nejdetkadir/hunt-monster&amp;utm_campaign=Badge_Grade)
 
 # hunt-monster
-This is a simple game for learning VueJS
+This is a simple game for learning VueJS. 
 
 ![cover](doc/cover.jpg)
+
+### ABOUT 
+The founding father of this game is [Gökhan Kandemir](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg). This application created for learning VueJS with [his course](https://www.udemy.com/course/sifirdan-ileri-seviye-vuejs-2-vuex-vue-router-egitim-seti/) from [Udemy](https://www.udemy.com/).
+# DEMO
+[Live demo](https://demo.nejdetkadirbektas.com/hunt-monster)
 
 # LICENSE
 ```
